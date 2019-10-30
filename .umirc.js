@@ -10,6 +10,7 @@ export default {
         { path: '/', redirect: '/home' },
         { path: '/home', component: '../pages/home' },
         { path: '/detail',component: '../pages/detail' },
+        { path: '/goodsDetail',component: '../pages/goodsDetail' },
         { path: '/about', component: '../pages/about' },
         { path: '/me', component: '../pages/me' }
       ]
